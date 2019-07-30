@@ -1,0 +1,5 @@
+hand_written_digits/*
+*.h5
+*.pkl
+*.csv
+*.hdf5
